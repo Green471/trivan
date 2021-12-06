@@ -1,0 +1,22 @@
+{
+  "name": "api-testing",
+  "version": "1.0.0",
+  "description": "Trivan Api Automation Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Green471/trivan.git"
+  },
+  "author": "AdilYesilmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Green471/trivan/issues"
+  },
+  "homepage": "https://github.com/Green471/trivan#readme",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  }
+}
